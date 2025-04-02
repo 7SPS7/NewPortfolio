@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+
+
+.font1{
+    font-family: "Manrope", sans-serif;
+}
+.font2{
+     font-family: "Assistant"
+}
+.font3{
+    font-family: "Eagle Lake";
+}
+:root {
+    --bg-color: white;
+    --text-color: black;
+}
+  
+.dark-theme {
+    --bg-color: black;
+    --text-color: white;
+}
+  
+body {
+    margin: auto;
+    max-width: 120rem;
+    overflow-x: hidden;
+    border-right: 2px solid black ;
+    border-left: 2px solid black ;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+.myButton{
+    background-color: var(--text-color);
+    color: var(--bg-color);
+    font-weight:bold;
+}
+.myBox{
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border-color: var(--text-color);
+}
+.myBox2{
+    background-color: rgba(128, 128, 128, 0.469);
+    color: var(--text-color);
+}
+
+  
