@@ -48,12 +48,12 @@ const Innovation = () => {
             {/* Stats */}
             <div className="grid grid-cols-2 md:grid-cols-3 gap-6 mt-12">
               <div className="bg-gray-800/50 p-4 rounded-lg border border-gray-700">
-                <div className="text-3xl font-bold text-blue-400 mb-2">50+</div>
+                <div className="text-3xl font-bold text-blue-400 mb-2">6+</div>
                 <div className="text-gray-400">Projects</div>
               </div>
               <div className="bg-gray-800/50 p-4 rounded-lg border border-gray-700">
-                <div className="text-3xl font-bold text-purple-400 mb-2">5+</div>
-                <div className="text-gray-400">Years Experience</div>
+                <div className="text-3xl font-bold text-purple-400 mb-2">8+</div>
+                <div className="text-gray-400">Months Experience</div>
               </div>
               <div className="bg-gray-800/50 p-4 rounded-lg border border-gray-700">
                 <div className="text-3xl font-bold text-pink-400 mb-2">100%</div>
